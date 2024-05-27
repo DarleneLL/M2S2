@@ -1,4 +1,4 @@
-//função transformarArray que recebe um array e uma função de transformação, 
+//função que recebe um array e uma função de transformação, 
 //e retorna um novo array, onde cada elemento é o resultado da aplicação da 
 //função de transformação ao elemento correspondente do array original.
 
